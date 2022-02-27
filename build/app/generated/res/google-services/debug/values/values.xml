@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865266945515-o9vo5nmv6h2f6nqbqo4ob5743faa32ln.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865266945515</string>
+    <string name="google_api_key" translatable="false">AIzaSyDO8xpPWnx6K-H_1WQmv9IMOTApBNgiEx0</string>
+    <string name="google_app_id" translatable="false">1:865266945515:android:22e92dc2c4793ecf005dae</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDO8xpPWnx6K-H_1WQmv9IMOTApBNgiEx0</string>
+    <string name="google_storage_bucket" translatable="false">skyflight-a2e08.appspot.com</string>
+    <string name="project_id" translatable="false">skyflight-a2e08</string>
+</resources>
