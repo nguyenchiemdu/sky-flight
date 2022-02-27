@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865266945515",
+    "project_id": "skyflight-a2e08",
+    "storage_bucket": "skyflight-a2e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865266945515:android:22e92dc2c4793ecf005dae",
+        "android_client_info": {
+          "package_name": "com.gdsc.skyflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865266945515-o9vo5nmv6h2f6nqbqo4ob5743faa32ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8xpPWnx6K-H_1WQmv9IMOTApBNgiEx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865266945515-o9vo5nmv6h2f6nqbqo4ob5743faa32ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
